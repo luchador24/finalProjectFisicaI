@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621522600 source:c:\users\kenneth rodrigo\downloads\proyectofinalfísica_i\proyectofinal_físicai\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1622172079 source:c:\users\kenneth rodrigo\downloads\física_i\proyectofinalfísica_i\proyectofinal_físicai\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
